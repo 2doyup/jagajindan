@@ -11,7 +11,7 @@ function App() {
           <img src='https://i.imgur.com/G4qjaEK.jpg'className='h-12 ml-[193px]'/>
         </div>
       </div>
-      <div className='bg-blue-900 grid grid-cols-2 text-white'>
+      <div className='bg-indigo-900 grid grid-cols-2 text-white'>
         <div className='px-4 py-2 font-bold'>건강상태 자가진단</div>
         <div>
           <img src='https://i.imgur.com/QazK9p2.jpg' className='h-10 ml-[145px] mr-2'/>
