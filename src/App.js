@@ -14,6 +14,7 @@ function App() {
         </div>
       </div>
       <div className='bg-blue-900 flex justify-between text-white'>
+      <div className='bg-indigo-900 grid grid-cols-2 text-white'>
         <div className='px-4 py-2 font-bold'>건강상태 자가진단</div>
         <div>
           <img src='https://i.imgur.com/QazK9p2.jpg' className='h-10' alt='to-start'/>
